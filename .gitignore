@@ -1,0 +1,19 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.py[cod]
+
+# Large generated data and trained models
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Experiment output folders (generated during execution)
+01_features/
+track_a/
+track_b/
+track_c/
+track_d/

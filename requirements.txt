@@ -1,0 +1,10 @@
+# Core data analysis
+numpy>=1.24,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+scikit-learn>=1.3,<2
+
+# Jupyter notebook runtime
+notebook>=7,<8
+ipykernel>=6.25,<8
